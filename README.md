@@ -1,12 +1,10 @@
-###                                                                           👋
-                                                                     Hello there. I'm Rofu.
-                                                                   I'm a Junior Aws|Devops coder 
+                                                         
 
 <p align="center">
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm <a href="https://necmttn.com">Neco</a>.<br> I'm a Senior Full-stack, full time nomad.<br><br>#typescript, #golang, #serverless,  #chatbot </samp>
+  <samp>Hello there. I'm Rofu</a>.<br> I'm a Junior Aws|Devops coder <br><br></samp>
   <br>
   <br>
   <br>
