@@ -9,7 +9,7 @@
   <br>
   <br>
   <br>
-  <img src="" width="350" />
+  <img src="https://github.com/SenseiRofu/SenSeiRofu/blob/main/Adventure_Time.gif" width="350" />
 </p>
 
 
