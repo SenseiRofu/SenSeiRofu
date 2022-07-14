@@ -9,7 +9,7 @@
   <br>
   <br>
   <br>
-  <img src="https://github.com/SenseiRofu/SenSeiRofu/blob/main/preview.gif" width="350" />
+  <img src="" width="350" />
 </p>
 
 
