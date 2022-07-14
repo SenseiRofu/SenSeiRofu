@@ -9,7 +9,7 @@
   <br>
   <br>
   <br>
-  <img src="https://github.com/Necmttn/Necmttn/blob/master/preview.gif" width="350" />
+  <img src="![preview](https://user-images.githubusercontent.com/51322709/179084278-c20b8d5d-fa17-46b1-9616-7840cbd4475c.gif)" width="350" />
 </p>
 
 
