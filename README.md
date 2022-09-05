@@ -4,7 +4,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm Rofu</a>.<br> I'm a Junior Aws|Devops coder <br><br></samp>
+  <samp>Hellooo there. I'm Rofu</a>.<br> I'm a Junior Aws|Devops coder <br><br></samp>
   <br>
   <br>
   <br>
