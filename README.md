@@ -1,5 +1,6 @@
                                                          
-
+#https://github.com/SenseiRofu/SenSeiRofu/blob/main/Adventure_Time.gif
+#https://github.com/SenseiRofu/SenSeiRofu/blob/main/berserk-berserker.gif
 <p align="center">
   <br>
   <br>
@@ -9,7 +10,7 @@
   <br>
   <br>
   <br>
-  <img src="https://github.com/SenseiRofu/SenSeiRofu/blob/main/Adventure_Time.gif" width="350" />
+  <img src="https://github.com/SenseiRofu/SenSeiRofu/blob/main/berserk-berserker.gif" width="350" />
 </p>
 
 
