@@ -1,6 +1,4 @@
                                                          
-#https://github.com/SenseiRofu/SenSeiRofu/blob/main/Adventure_Time.gif
-#https://github.com/SenseiRofu/SenSeiRofu/blob/main/berserk-berserker.gif
 <p align="center">
   <br>
   <br>
