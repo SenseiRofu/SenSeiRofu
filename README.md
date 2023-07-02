@@ -3,7 +3,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm Rofu</a>.<br>Junior Cloud|DevOps Engineer <br><br></samp>
+  <samp>Hello there. I'm Rofu</a>.<br> Cloud|DevOps Engineer <br><br></samp>
   <br>
   <br>
   <br>
